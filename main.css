@@ -52,6 +52,25 @@ header span {
 }
 
 
+/****FOOTER****/
+
+footer > div > div > div h4 {
+    font-size: 18px;
+} 
+
+.textorodape {
+    
+}
+
+.fa:hover {
+    
+    transition: 1s all;
+    transform: scale(1.5);
+    border-radius: 5px;
+    color: hsla(120, 100%, 63%, 0.867);
+    text-shadow: 1px 1px 1px black;
+
+}
 
 /*<header>
                 <div class="container">
