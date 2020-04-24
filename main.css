@@ -1,3 +1,16 @@
+/*.bg-laranja {
+    background-color: #DB7324;
+    position: absolute;
+    z-index: -1;
+    margin-left: auto;
+    width: 21%;
+    left: 50%;
+    transform: translate(-50%);
+    height: 62%;
+    margin-top: -0.99%;
+}*/
+
+
 /*****HEADER*****/
 
 header span {
@@ -37,6 +50,8 @@ header span {
     font-size: 17px;
     color: #409DAD !important;
 }
+
+
 
 /*<header>
                 <div class="container">
