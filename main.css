@@ -15,9 +15,27 @@ header span {
     width: 55%;
 }
 
+
+
 #parte2 div + div > div img {
     border-radius: 5px;
     border: 14px solid #000;
+}
+
+#parte3 {
+    border: 14px solid #000000 !important;
+    border-radius: 5px;
+    width: 43%;
+}
+
+.parte3-2 {
+    background-color: #FEECB0 !important;
+    border-radius: 3px;
+}
+
+#parte3 h2, p, ul a {
+    font-size: 17px;
+    color: #409DAD !important;
 }
 
 /*<header>
