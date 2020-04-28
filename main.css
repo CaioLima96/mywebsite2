@@ -101,7 +101,7 @@ hr {
   @keyframes logo {
       0% {
           width: 18em;        
-          transform: scale(2.75);
+          transform: scale(1.25);
           opacity: 1;
       }
       50% {
