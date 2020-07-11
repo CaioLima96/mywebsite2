@@ -177,16 +177,16 @@ hr {
           top: -170%;
       }
   }
->>>>>>> body
-/*<header>
-                <div class="container">
-                    <div class="row justify-content-center">
-                        
-                        <h1 class="parte1 mt-2" style="background-color: #FEECB0;">
-                            <span class="mr-4">Caio Lima</span>
-                            <img src="img/olho.png" alt="olho do milênio">
-                        </h1>
-                        
-                    </div>
-                </div>
-            </header>*/
+
+  /********************FUNDO LARANJA********************/
+
+#background {
+    position: absolute;
+    top: 0;
+    left: 31%;
+    width: 38%;
+    height: 117%;
+    background-color: #DB7324;
+    z-index: -1;
+    border: 14px solid #000000 !important;
+}
