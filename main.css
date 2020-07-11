@@ -44,7 +44,7 @@ header span {
     border-radius: 3px;
 }
 
-#parte3 h2, p, ul a {
+#parte3 h2, p, ul a, h5 {
     font-size: 17px;
     color: #409DAD !important;
 }
@@ -54,7 +54,8 @@ hr {
     margin-bottom: 1.8% !important;
 }
 
-/****ABOUT****/
+
+/**********************************************ABOUT****************************************/
 
 #star-wars {
     background-color: black;
@@ -178,7 +179,44 @@ hr {
       }
   }
 
-  /********************FUNDO LARANJA********************/
+
+/*********************************************************PORTIFOLIO***************************************/
+
+.carousel-indicators {
+    top: 107% !important;
+}
+
+.carousel-inner {
+    /*top: -8% !important;
+    left: 8% !important;
+    left: 8% !important;*/
+    height: 9em !important;
+}
+
+.carousel-item img {
+    width: 35% !important;
+    left: 3% !important;
+}
+
+.carousel-caption {
+    top: -17% !important;
+    left: 46% !important;
+}
+
+.carousel-caption p {
+    font-size: 13px !important;
+}
+
+.carousel-control-prev {
+    left: -36px !important;
+}
+
+.carousel-control-next {
+    right: -30px !important;
+}
+
+
+/***************************************************FUNDO LARANJA***********************************************/
 
 #background {
     position: absolute;
@@ -190,3 +228,4 @@ hr {
     z-index: -1;
     border: 14px solid #000000 !important;
 }
+
