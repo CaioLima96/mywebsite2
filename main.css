@@ -220,13 +220,18 @@ hr {
 
 .fa {
     color: black;
+    margin-right: 2% !important;
+    /*width: 50px !important;
+    height: 50px !important;*/
 }
 
 .fa:hover {
     
     transition: 1s all;
     transform: scale(1.2);
-    box-shadow: 5px 6px 8px rgb(39, 36, 36);
+    color: hsla(120, 100%, 63%, 0.867);
+    text-shadow: 1px 1px 1px black;
+    /*box-shadow: 5px 6px 8px rgb(39, 36, 36);*/
 }
 
 /***************************************************FUNDO LARANJA***********************************************/
